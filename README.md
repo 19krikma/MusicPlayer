@@ -5,7 +5,7 @@ This program runs on JAVA8 and it main purpose is to give parents a control of w
 - On Startup it asks for music folder location
 - If button is clicked and there is a diffrent song playing that it stops it and lunches the new clicked one
 
-# Planning to ADD
+# TO-DO
 - Playing button will change color or standout to show that is playing
 - Puase and Resume playing buttons
 - Save folder location in DATA BASE(it gets boring to enter folder location every time you run the program)
