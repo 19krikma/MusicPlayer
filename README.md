@@ -7,7 +7,7 @@ This program runs on JAVA8 and it main purpose is to give parents a control of w
 
 # TO-DO
 - Playing button will change color or standout to show that is playing
-- Puase and Resume playing buttons
+- Pause and Resume playing buttons
 - Save folder location in DATA BASE(it gets boring to enter folder location every time you run the program)
 - Add pages to fit more sound tracks in the program
 
