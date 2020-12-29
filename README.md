@@ -14,4 +14,4 @@ This program runs on JAVA8 and it main purpose is to give parents a control of w
 # Version 1.0.0
 Its a start so it didn't had much to it.
 <h3><b>Issues</b></h3>
-If clicked diffrent song, it didn't had immediatly but took time to stop it and load a new one.
+If clicked diffrent song, it didn't had immediatly but took time to stop it and load a new one. -> FIXED in 1.0.1
