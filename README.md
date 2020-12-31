@@ -12,7 +12,7 @@ This program runs on JAVA8 and it main purpose is to give parents a control of w
 - Add pages to fit more sound tracks in the program
 
 # Version 1.0.0
-It's a start so it didn't had much to it.
+It's a start, so don't expect much from it.
 <h3><b>Issues</b></h3>
 If clicked diffrent song, it didn't had immediatly but took time to stop it and load a new one. -> <b>FIXED in 1.0.1</b>
 
