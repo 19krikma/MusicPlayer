@@ -1,5 +1,5 @@
 # Music Player 
-This program runs on JAVA8 and it main purpose is to give parents a control of what their little ones listen, not everything that is on internet is good for kids to listen so this program provides parents a tool that will play music that parents will choose, program loads folder with music and generates buttons for every one of them.
+This program runs on JAVA8 and it main purpose is to give parents a control of what their little ones listen. Not everything that is on the internet is good for kids to listen to, so this program provides control over what will play -  just choose the folder with music, upload it to the program, which then generates buttons for every song.
 
 # Latest Version Features
 - On Startup it asks for music folder location
