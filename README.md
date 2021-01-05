@@ -20,5 +20,9 @@ It's a start, so don't expect much from it.
 </ul>
 
 # Version 1.0.1
+<h3>Fixed Issues</h3>
+<ul>
+ <li>If a song is playing and you clicked on a diffrent song, it wouldn't stop immediatly, but it would take time to stop it and then it will start loading a new one.</li>
+</ul>
  <h3><b>Issues</b></h3>
  No exsisting cache of already played songs. Cache song limit 3-5.
