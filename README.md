@@ -11,6 +11,9 @@ This program runs on JAVA8 and it main purpose is to give parents a control of w
 - Save folder location in DATA BASE(it gets boring to enter folder location every time you run the program)
 - Add pages to fit more sound tracks in the program
 
+# Info
+A little explenation about the Issue section for evey version. They describe problems that were found after realse, so no need to say why there are issues under every version if they could be fixed, they will be fixed but in the next version after that one.
+
 # Version 1.0.0
 It's a start, so don't expect much from it.
 <h3><b>Issues</b></h3>
