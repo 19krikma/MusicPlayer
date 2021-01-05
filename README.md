@@ -14,7 +14,8 @@ This program runs on JAVA8 and it main purpose is to give parents a control of w
 # Version 1.0.0
 It's a start, so don't expect much from it.
 <h3><b>Issues</b></h3>
-If a song is playing and you clicked on a diffrent song, it wouldn't stop immediatly, but it would take time to stop it and then it will start loading a new one. -> <b>FIXED in 1.0.1</b>
+- If a song is playing and you clicked on a diffrent song, it wouldn't stop immediatly, but it would take time to stop it and then it will start loading a new one. -> <b>FIXED in 1.0.1</b>
+- Has static music location, must add a file explore to give a choice of what folder to load
 
 # Version 1.0.1
  <h3><b>Issues</b></h3>
