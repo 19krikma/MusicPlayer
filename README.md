@@ -13,20 +13,3 @@ This program runs on JAVA8 and it main purpose is to give parents a control of w
 
 # Info
 A little explenation about the Issue section for evey version. They describe problems that were found after realse, so no need to say why there are issues under every version if they could be fixed, they will be fixed but in the next version after that one.
-
-# Version 1.0.0
-It's a start, so don't expect much from it.
-<h3><b>Issues</b></h3>
-<ul>
- <li><a>If a song is playing and you clicked on a diffrent song, it wouldn't stop immediatly, but it would take time to stop it and then it will start loading a new one.</a></li>
- <li><a>Has static music location, must add a file explore to give a choice of what folder to load.</a></li>
-</ul>
-
-# Version 1.0.1
-<h3>Fixed Issues</h3>
-<ul>
- <li>If a song is playing and you clicked on a diffrent song, it wouldn't stop immediatly, but it would take time to stop it and then it will start loading a new one.</li>
- <li>Has static music location, must add a file explore to give a choice of what folder to load.</li>
-</ul>
- <h3><b>Issues</b></h3>
- No exsisting cache of already played songs. Cache song limit 3-5.
